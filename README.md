@@ -115,7 +115,7 @@ Check out my repos to see some stuff I've built
 <!-- LINKS -->
 <div align="center">
 
-<h2>🔗 Connect</h2>
+<h2> Connect</h2>
 
 <table>
   <tr>
