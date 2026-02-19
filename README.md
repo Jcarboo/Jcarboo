@@ -1,17 +1,3 @@
-<div align="center">
-<style> 
-@import url('https://fonts.cdnfonts.com/css/block-craft');
- h1, h2, h3, {
-    font-family: 'Block Craft', sans-serif;
-    font-weight: normal;
-    text-transform: uppercase;
-    color: #333; } 
-h1 { font-size: 2.5rem !important; }
-h2 { font-size: 2rem !important; }
-h3 { font-size: 1.5rem !important; }
-
-</style>
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=F7D000&center=true&vCenter=true&width=700&lines=Jayson+Carboo;ML+%2B+Full-Stack;Software+Dev)
 
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%" />
